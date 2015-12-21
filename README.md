@@ -1,0 +1,2 @@
+# generique
+Dépôt générique
